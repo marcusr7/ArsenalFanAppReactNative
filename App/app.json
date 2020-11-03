@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "ArsenalFanApp",
+    "slug": "ArsenalFanApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/Arsenal_FC.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/Arsenal_White.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false
+    },
+    "web": {
+      "Arsenal_FC": "./assets/images/Arsenal_FC.png"
+    }
+  }
+}
